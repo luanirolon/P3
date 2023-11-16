@@ -1,0 +1,9 @@
+C:/Users/Luani/Desktop/Programacion 3/2021a2-u02-listas-luanirolon/cmake-build-debug/CMakeFiles/U02-E01.dir
+C:/Users/Luani/Desktop/Programacion 3/2021a2-u02-listas-luanirolon/cmake-build-debug/CMakeFiles/U02-E02.dir
+C:/Users/Luani/Desktop/Programacion 3/2021a2-u02-listas-luanirolon/cmake-build-debug/CMakeFiles/U02-E03.dir
+C:/Users/Luani/Desktop/Programacion 3/2021a2-u02-listas-luanirolon/cmake-build-debug/CMakeFiles/U02-E04.dir
+C:/Users/Luani/Desktop/Programacion 3/2021a2-u02-listas-luanirolon/cmake-build-debug/CMakeFiles/U02-E05.dir
+C:/Users/Luani/Desktop/Programacion 3/2021a2-u02-listas-luanirolon/cmake-build-debug/CMakeFiles/U02-E06.dir
+C:/Users/Luani/Desktop/Programacion 3/2021a2-u02-listas-luanirolon/cmake-build-debug/CMakeFiles/U02-Ejercicio-02.dir
+C:/Users/Luani/Desktop/Programacion 3/2021a2-u02-listas-luanirolon/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Luani/Desktop/Programacion 3/2021a2-u02-listas-luanirolon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
